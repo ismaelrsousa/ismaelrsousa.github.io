@@ -6,20 +6,21 @@
 - **Site:** [ismaelrsousa.github.io](https://ismaelrsousa.github.io)
 
 ## Experiência
+
 ### T2S Tecnologia
-- Analista de Sistemas Júnior | _03/2022 - Atual_
+- Analista de Sistemas Júnior \| _03/2022 - Atual_
 
 #### Projetos
-- T2S | Atuação em projetos internos
+- T2S \| Atuação em projetos internos
   - _11/2023 - Atual_
   - Auxílio no desenvolvimento de produtos internos principalmente com Front-End e Design;
 
-- BTP | Consultoria técnica
+- BTP \| Consultoria técnica
   - _02/2023 - Atual_
   - Desenvolvimento de projetos para o setor financeiro (Faturamento, Cobrança e Comercial);
   - Análise de escopos e definição de requisitos;
 
-- BTP | Suporte
+- BTP \| Suporte
   - _03/2022 - 01/2023_
   - Atendimento de chamados do setor de Operações e Financeiro;
   - Resolução de problemas com urgência;
@@ -28,16 +29,16 @@
   - Tecnologias: .NET, Angular, RabbitMQ, Docker, Elastic Stack, Azure DevOps, Oracle Database, 
 
 ### KBRTEC
-- Desenvolvedor Front-End | _08/2020 - 02/2022_
+- Desenvolvedor Front-End \| _08/2020 - 02/2022_
   - Desenvolvimento de Sites e Sistemas em Laravel e WordPress;
   - Manutenção de sites e sistemas legados em .NET MVC;
   - Treinamento de novos funcionários e estagiários.
 
-- Estagiário Front-End | _10/2019 - 07/2020_
+- Estagiário Front-End \| _10/2019 - 07/2020_
   - Desenvolvimento de Sites em Laravel e WordPress.
 
 #### Projetos
-- [Monitor de COVID-19 | A Tribuna](https://covid.atribuna.com.br/)
+- [Monitor de COVID-19 \| A Tribuna](https://covid.atribuna.com.br/)
   - Sistema online de consulta e monitoramento dos números da pandemia na região de Santos bairro a bairro;
   - Memorial online de homenagens para os falecidos;
   - Tecnologias: Laravel, SASS, GulpJs, JavaScript e jQuery.
@@ -89,7 +90,7 @@
   - Landing Page indicação de produtos/serviços Swapers.
   - Tecnologias: Laravel, SASS, GulpJs, JavaScript e Jquery;
 
-- [Imersão 360º | Engenho dos Erasmos](https://historia360.com.br/)
+- [Imersão 360º \| Engenho dos Erasmos](https://historia360.com.br/)
   - Site de apresentação do projeto de Imersão 360º do Engenho dos Erasmos;
   - Tecnologias: Laravel, SASS, GulpJs, JavaScript e Jquery;
 
